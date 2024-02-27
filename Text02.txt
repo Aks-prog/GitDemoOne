@@ -1,0 +1,4 @@
+This is my Second Text file for practice of Git and GitHub.
+I installed Git in my Command prompt.
+I created my account on Github.
+Thank-you!!!!!!!!!!!!!!!!!!!!!!!!!!!

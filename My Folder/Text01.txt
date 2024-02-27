@@ -1,0 +1,6 @@
+This is my First Text file for practice of Git and GitHub.
+I created my account on Github.
+I installed Git in my Command prompt.
+Now I am pushing my Dummy project into Github and then pull the code from my repository.
+After that I will check it from other user that how it works.
+Thank-you!!!!!!!!!!!!!!!!!!!!!!!!!!!

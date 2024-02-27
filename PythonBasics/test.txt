@@ -1,0 +1,5 @@
+anaconda
+buffalo
+cat
+dog
+elephant
