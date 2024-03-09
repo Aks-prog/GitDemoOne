@@ -5,3 +5,6 @@ Thank-you!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Cloning the project is done.
 Now pushing the code from Asian Guy side.
+
+Pulling the project is done from American Guy.
+Added some lines and now ready to push the code again to GitHub repository.
