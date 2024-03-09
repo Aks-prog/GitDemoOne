@@ -2,3 +2,8 @@ This is my Second Text file for practice of Git and GitHub.
 I installed Git in my Command prompt.
 I created my account on Github.
 Thank-you!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+I am updating the code from GitDemoOne user.
+And it is ready to pus on my Github reporsitory.
+So that, GitX can use download the code and work on it.
