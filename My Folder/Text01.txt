@@ -4,3 +4,6 @@ I installed Git in my Command prompt.
 Now I am pushing my Dummy project into Github and then pull the code from my repository.
 After that I will check it from other user that how it works.
 Thank-you!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+This file is ready to push again in develop branch by American Development team.
+So, now we will perform all the operations now to add the modified changes to out Github repository.
