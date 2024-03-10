@@ -8,3 +8,7 @@ Now pushing the code from Asian Guy side.
 
 Pulling the project is done from American Guy.
 Added some lines and now ready to push the code again to GitHub repository.
+
+This is my code which is in develop branch and it will not affect the Master branch.
+So. let's check it.
+This changes were done by Asian Guy and now push it to the repository.
